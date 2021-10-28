@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ejemplo-986ed": {
+      "hosting": {
+        "firebaseauth": [
+          "ejemplo-986ed"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ejemplo-986ed"
+  }
+}
